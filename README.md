@@ -35,14 +35,5 @@ Este projeto utiliza o **Nginx** em um contêiner Docker para servir uma página
 - `index.html`: Arquivo HTML que contém a estrutura da página, com imagens e estilo básico.
 - `Dockerfile`: Define como a imagem Docker será construída, utilizando o Nginx para servir o HTML.
   
-### Imagem de Interface
 
-A interface é simples e apresenta imagens do Goku. O arquivo de imagem principal (`imagen_interface.jpeg`) pode ser adicionado conforme necessário para personalizar a página.
-
-## Conclusão
-
-Este projeto é um exemplo simples para mostrar como funciona a criação e execução de aplicações em contêineres Docker. É perfeito para quem está começando a aprender sobre Docker e contêinerização de aplicações web.
-
----
-
-Feito com 💻 e 🚀 para fins de aprendizado.
+Feito  para fins de aprendizado.🚀 
