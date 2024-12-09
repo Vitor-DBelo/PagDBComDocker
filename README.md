@@ -8,7 +8,7 @@ Este é um simples projeto de aprendizado para testar como funciona o Docker e a
 
 1. **Clone este repositório:**
     ```bash
-    git clone <URL_DO_REPOSITORIO>
+    git clone https://github.com/Vitor-DBelo/PagDBComDocker.git
     ```
 
 2. **Construa a imagem Docker:**
